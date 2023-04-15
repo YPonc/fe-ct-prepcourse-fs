@@ -4,6 +4,8 @@
 // En los siguientes ejercicios deberás reemplazar el valor null
 // por el correspondiente.
 
+// NO ERES TU SOY YO :V
+
 // Crea una variable de tipo string.
 const nuevoString = "Tres";
 
